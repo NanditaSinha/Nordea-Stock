@@ -11,7 +11,7 @@
 	<groupId>com.org</groupId>
 	<artifactId>stock</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>stock</name>
+	<name>stock-service</name>
 	<description>Stock application</description>
 	<url/>
 	<licenses>
